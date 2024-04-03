@@ -52,6 +52,11 @@ cohen.d(pctUrban ~ region, data = subset_data)
 ```
 
 ### Insights on life expectancy, fertility rate and urbanisation rate
-The Kruskal-Wallis-Test and the pairwise comparisons indicate significant differences between African countries and OECD countries and others in terms of fertility rate and life expectancy. The life expectancy of women in African countries tends to be significantly lower than in the OECD and other countries and the fertility rate significantly higher.
-From the exploration of the urbanisation rate in Aisa and Europe by using an ANOVA test it can be concluded that the urbanisation rate tends to be higher in Europe, however the differences seem the be moderate (medium effect size).
+The Kruskal-Wallis-Test and the pairwise comparisons indicate significant differences between African countries and OECD countries and others in terms of fertility rate and life expectancy. The life expectancy of women in African countries tends to be significantly lower than in the OECD and other countries and the fertility rate significantly higher.  
+
+![Bubble chart](Bubblechart.png)
+
+From the analysis of the urbanisation rate in Aisa and Europe using an ANOVA test it can be concluded that the urbanisation rate tends to be higher in Europe, however the differences seem the be moderate (medium effect size).  
+
+![Boxplot](Boxplot.png)
 
