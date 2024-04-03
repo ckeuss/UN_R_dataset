@@ -22,7 +22,7 @@ data(UN)
 ### Tools
 - R markdown
 
-### Access Markdown html
+### Access markdown html
 [Click here](https://ckeuss.github.io/UN_R_dataset/)
 
 ### Data Analysis
