@@ -271,7 +271,7 @@ dunn.test(UN_data$lifeExpF, UN_data$group, method = "bonferroni")
 
 If the p-value for a pairwise comparison is smaller than the significance level divided by the number of comparisons (alpha/2 in this case), then the null hypothesis will be rejected. The null hypothesis states that there is no difference between the groups being compared. The Bonferroni correction is used to reduce the probability of 
 wrong results.
-All pairwise comparisons indicate significant differences between African countries and OECD countries and others in terms of fertility rate and life expectancy. Furthermore,the negative values in the table indicate that the mean life expectancy of women in African countries is lower than in the OECD and other countries.
+All pairwise comparisons indicate significant differences between African countries and OECD countries and others in terms of fertility rate and life expectancy. 
 
 ### H3
 
